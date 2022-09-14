@@ -1,0 +1,2 @@
+this is index file .
+it is simple text file.
